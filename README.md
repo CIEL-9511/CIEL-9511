@@ -6,7 +6,10 @@
 ---
 
 ## 🚀 About Me
-*Data-driven professional with a Master’s in Education and a background in Psychology. I specialize in finding the 'human story' behind the numbers through Python and Statistical Analysis.*T
+*Data Analyst specializing in consumer behavior and trend analysis. Proficient in using Python for data processing and 
+statistical analysis. My competitive advantage lies in my background in Psychology and Education, which allows me to 
+not only process numbers but also interpret user intent and communicate complex findings clearly and persuasively 
+within the digital products and services sector. .*
 ---
 
 ## 🛠️ Technical Toolbox

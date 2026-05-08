@@ -20,6 +20,9 @@
 ---
 
 ## 📂 Featured Projects
+### 📞 [Telecom Operator Efficiency Analysis](https://github.com/CIEL-9511/CALLMEMAYBE_TELECOM)
+*Identified operational inefficiencies in virtual telephony through statistical testing (Mann-Whitney U) and performance metric analysis.*
+
 ### 🎮 [Video Game Market Planning](https://github.com/CIEL-9511/Videogames_Planning)
 *Analyzed global sales data to identify platform lifecycles and regional trends for strategic investment.*
 

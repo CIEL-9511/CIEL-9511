@@ -1,25 +1,26 @@
 # Hi there, I'm Cynthia 👋
 
-### Junior Data Analyst | Behavioral Insights & Data Storytelling Specialist 📊
-*Transforming complex human behavior patterns into actionable business strategies.*
+### Data Analyst | Behavioral Insights & Data Storytelling Specialist 📊
 
+#### What do a classroom of 25 children and a database of 10,000 users have in common? Both require the ability to identify hidden patterns, communicate with clarity, and turn chaos into an actionable strategy. 🚀
 ---
 
 ## 🚀 About Me
-*Data Analyst specializing in consumer behavior and trend analysis. Proficient in using Python for data processing and 
-statistical analysis. My competitive advantage lies in my background in Psychology and Education, which allows me to 
-not only process numbers but also interpret user intent and communicate complex findings clearly and persuasively 
-within the digital products and services sector. .*
+*I am a Data Analyst specializing in consumer behavior and trend analysis. Proficient in using Python for data processing and statistical analysis. My competitive advantage lies in my background in Psychology and Education, which allows me to 
+not only process numbers but also interpret user intent and communicate complex findings clearly.*
+
+*I manage the end-to-end data lifecycle using Python, SQL, and Tableau, focusing on uncovering clear consumer patterns through EDA and statistical modeling. I’ve also  started integrating Generative AI and Prompt Engineering as a 'force multiplier' to handle complex scripting and visual design. This lets me focus on what I do best: finding patterns in behavior and turning them into clear stories. My goal is always to provide high-quality analysis and documentation that helps the team make quick, data-driven decisions.*
+
 ---
 
 ## 🛠️ Technical Toolbox
 | Category | Tools |
 | :--- | :--- |
 | **Languages** | Python (Pandas, NumPy, SciPy), SQL |
-| **Visualization** | Matplotlib, Seaborn, Plotly |
+| **Visualization** | Tableau, Matplotlib, Seaborn, Plotly |
 | **Analytics** | EDA, Hypothesis Testing, Statistical Modeling, Trend Analysis |
 | **Workflow** | Git, GitHub, Jupyter Notebooks, Excel |
-
+| **AI Tools** | Claude, ChatGPT, Google Gemini|
 ---
 
 ## 📂 Featured Projects
@@ -38,8 +39,8 @@ within the digital products and services sector. .*
 ---
 
 ## 🤝 Connect with Me
-- 💼 [LinkedIn Profile](LINK-A-TU-LINKEDIN)
+- 💼 [LinkedIn Profile](www.linkedin.com/in/cynthia-espin-lafebre)
 - 📂 [Notion Portfolio]( https://www.notion.so/Portfolio-Cynthia-Espin-Lafebre-2f11ab6b60408079923dc9d5156cd031?source=copy_link)
-- 📧 [cindy-isahotmail.com]
+- 📧 [cindy-isa@hotmail.com]
 
 ---

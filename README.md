@@ -14,13 +14,17 @@ not only process numbers but also interpret user intent and communicate complex 
 ---
 
 ## 🛠️ Technical Toolbox
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | Python (Pandas, NumPy, SciPy), SQL |
-| **Visualization** | Tableau, Matplotlib, Seaborn, Plotly |
-| **Analytics** | EDA, Hypothesis Testing, Statistical Modeling, Trend Analysis |
-| **Workflow** | Git, GitHub, Jupyter Notebooks, Excel |
-| **AI Tools** | Claude, ChatGPT, Google Gemini|
+### 🛠️ Herramientas
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
 ---
 
 ## 📂 Featured Projects
